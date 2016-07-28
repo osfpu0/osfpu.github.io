@@ -26,8 +26,8 @@ avatar: http://en.gravatar.com/userimage/22200296/8e4a4d5c7699b97964d3592774e861
 #favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
-disqus:
-  shortname: osfpu
+#disqus:
+#  shortname: osfpu
 
 # google analytics config
 #iga:
