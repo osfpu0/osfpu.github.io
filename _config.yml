@@ -1,23 +1,23 @@
 # Site settings
-title: "Su Yan's Blog"
-email: suyan0830@gmail.com
+title: "Osfpu's Blog"
+email: 857214951@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Su Yan's Tech Blog"
+  "天下的不老歌"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yansu.org" # the base hostname & protocol for your site
+url: "http://blog.osfpu.xyz" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Osfpu
 twitter:
-  username: masonsuyan
+  username: osfpu0
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 
 # Social account
-twitter: masonsuyan
+twitter: osfpu0n
 # weibo:    ID
-github: suyan
+github: osfpu
 # codepen:  username
 # dribbble: username
 
@@ -27,12 +27,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-en
+  shortname: osfpu
 
 # google analytics config
-ga:
-  id: UA-54767140-2
-  url: yansu.org
+#iga:
+#  id: UA-54767140-2
+#  url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
