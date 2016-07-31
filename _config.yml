@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.osfpu.xyz" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Osfpu
-twitter:
-  username: osfpu0
+#twitter:
+#  username: osfpu0
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
