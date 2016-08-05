@@ -5,7 +5,6 @@ category: 技术
 tags: 服务器
 keywords: nginx
 ---
-# Nginx 学习笔记
 ## 1. 概念
 * 反向代理服务器
 * 抗并发，nginx 处理请求是异步非阻塞的（epoll），多个请求对应一个进程
