@@ -10,6 +10,7 @@ keywords: 二叉树
 ```c++
 #include <iostream>
 #include <vector>
+#include <string>
 #include <algorithm>
 #include <map>
 #include <set>
