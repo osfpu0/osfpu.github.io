@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《傅义和宋世杰带你刷题带你飞》同类图书评价
+title: 算法类图书评价
 category: 书籍
 tags: 算法
 keywords: 算法，求职
